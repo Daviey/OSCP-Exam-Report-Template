@@ -1,0 +1,11 @@
+*.swp
+*.swo
+*~
+Exam/Parts/04-appendices.md
+Lab/Parts/04-appendices.md
+Lab/Parts/05-exercises.md
+.envrc
+Exam/exam-report.md
+Lab/lab-report.md
+output/
+eisvogel.latex
